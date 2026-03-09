@@ -1,4 +1,4 @@
-# Rolling a Die — Sample Spaces
+# Task 2 Rolling a Die 
 
 ## Useful Definitions and Formulas
 
