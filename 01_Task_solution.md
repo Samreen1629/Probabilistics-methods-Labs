@@ -1,4 +1,4 @@
-# Task 1 Coin Tossing 
+# Task 1 — Coin Tossing 
 
 ## Useful Definitions and Formulas
 
