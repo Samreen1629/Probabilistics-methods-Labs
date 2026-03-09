@@ -1,4 +1,4 @@
-# Task 2 Rolling a Die 
+# Task 2 — Rolling a Die 
 
 ## Useful Definitions and Formulas
 
