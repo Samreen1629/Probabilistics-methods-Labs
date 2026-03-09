@@ -1,4 +1,4 @@
-# Coin Tossing — Sample Spaces
+# Task 1 Coin Tossing — Sample Spaces
 
 ## Useful Definitions and Formulas
 
