@@ -1,4 +1,4 @@
-# Task 3 Drawing Cards 
+# Task 3 — Drawing Cards 
 
 ## Useful Definitions and Formulas
 
